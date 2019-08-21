@@ -8,7 +8,7 @@
 *
 * write out a code example of each explanation above
 */
-
+/*
 // Principle 1
 function whoIsIt(name) {
     console.log(this);
@@ -45,4 +45,4 @@ function partyTime(fun) {
 
 // Principle 4
 Toni.party.call(Toni); 
-// code example for Explicit Binding
+// code example for Explicit Binding*/
